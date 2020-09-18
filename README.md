@@ -1,4 +1,4 @@
-# launch-school-javascript-prep
+# Introduction to Programming with JavaScript
 
 Working through the exercises contained in the Introduction to Programming with
 JavaScript book from Launch School.
