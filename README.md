@@ -4,7 +4,7 @@ Working through the exercises contained in the Introduction to Programming with
 JavaScript book from Launch School.
 
 - [x] Getting Started
-- [ ] The Basics
+- [x] The Basics
 - [ ] Variables
 - [ ] Input/Output
 - [ ] Functions
