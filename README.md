@@ -5,7 +5,7 @@ JavaScript book from Launch School.
 
 - [x] Getting Started
 - [x] The Basics
-- [ ] Variables
+- [x] Variables
 - [ ] Input/Output
 - [ ] Functions
 - [ ] Flow Control
