@@ -10,6 +10,6 @@ JavaScript book from Launch School.
 - [x] Functions
 - [x] Flow Control
 - [x] Loops & Iterating
-- [ ] Arrays
+- [x] Arrays
 - [ ] Objects
 - [ ] More Stuff
