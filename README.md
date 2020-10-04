@@ -9,7 +9,7 @@ JavaScript book from Launch School.
 - [x] Input/Output
 - [x] Functions
 - [x] Flow Control
-- [ ] Loops & Iterating
+- [x] Loops & Iterating
 - [ ] Arrays
 - [ ] Objects
 - [ ] More Stuff
