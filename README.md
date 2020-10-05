@@ -11,5 +11,5 @@ JavaScript book from Launch School.
 - [x] Flow Control
 - [x] Loops & Iterating
 - [x] Arrays
-- [ ] Objects
+- [x] Objects
 - [ ] More Stuff
