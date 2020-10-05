@@ -12,4 +12,4 @@ JavaScript book from Launch School.
 - [x] Loops & Iterating
 - [x] Arrays
 - [x] Objects
-- [ ] More Stuff
+- [x] More Stuff
